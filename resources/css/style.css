@@ -25,3 +25,8 @@ p{
     font-size: 21px;
     color: gray;
 }
+
+video,img{
+
+    max-width: 100%;
+}
